@@ -41,7 +41,6 @@
  .content2{
     flex:1;
     display: flex;
-    justify-content: column;
     flex-wrap: wrap;
     gap: 15px;
     flex-direction: column;
